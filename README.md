@@ -11,6 +11,7 @@
 npm install
 npm start
 
-현재 
+현재 Smaple Source
+
 추후 module화 예정
 
