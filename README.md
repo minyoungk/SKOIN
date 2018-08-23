@@ -11,4 +11,6 @@
 npm install
 npm start
 
-문서는 나중에 작성
+현재 
+추후 module화 예정
+
