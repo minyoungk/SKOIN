@@ -1,10 +1,10 @@
 "# SKOIN" 
 
-지원쇼핑몰
+##지원쇼핑몰
 - 11번가
 - 
 
-# INSTALL
+## INSTALL
 npm install
 npm start
 
