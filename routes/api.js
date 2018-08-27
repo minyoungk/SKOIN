@@ -3,7 +3,7 @@ var router = express.Router();
 var Nightmare = require('nightmare');
 var request = require("request");
 var Promise = require("bluebird");
-var mysql      = require('mysql');
+var mysql = require('mysql');
 var rp = require('request-promise');
 var _ = require('lodash');
 const Xvfb = require('xvfb');
@@ -13,7 +13,7 @@ var moment = require('moment');
 var connection = mysql.createConnection({
     host: 'localhost',
     user: 'root',
-    password: 'onetw@345',
+    password: 'PW',
     database: 'ticket'
 });
 
